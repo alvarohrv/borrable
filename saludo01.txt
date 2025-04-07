@@ -12,4 +12,4 @@ uiyaca)) mi primer cambio, que puede salir mal? R salio mal, por un conflicto al
 ------
 (develop) probando el PR  ___ errores ortograficos: conSienSia-conSienSia 
 (develop-uiyaca) listo para corregir, esperando la PR (vamos a ver quien lo solicita)
-
+Pd-uiyaca: 1 commit-push  luego de la PR
