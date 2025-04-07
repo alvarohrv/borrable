@@ -7,4 +7,13 @@ alvarohrv )) otro cambio y pusch, antes de que uiyaca haga pull, sus cambios y u
 uiyaca)) mi primer cambio, que puede salir mal? R salio mal, por un conflicto al no hacer pull primero, pero se resolvio el conflicto
 
 (se que uiyaca tiene un archivo en stagin, voy a mandar este cambio y que haga pull)
-
+(uiyaca: en staging y voy hacer pull, a ver que pasa)
+(uiyaca: pudrete ya arregle el conflicto)
+------
+(develop) probando el PR  ___ errores ortograficos: conSienSia-conCienCia (corregido) 
+Uiyaca_ ¿que tal la correccion? R.alvarohrv: OK
+(develop-uiyaca) listo para corregir, esperando la PR (vamos a ver quien lo solicita)
+Pd-uiyaca: 1 commit-push  luego de la PR
+(Uiyaca) cambios en la PR  ___ errores ortograficos: ReFleciOn - RefleXciÓn () 
+alvarohrv_ ¿que tal la correccion? R.uiyaca: OK
+---- fin de revision, resolviendo PR y haciendo merge
