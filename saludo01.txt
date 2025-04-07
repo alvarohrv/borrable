@@ -15,4 +15,5 @@ Uiyaca_ ¿que tal la correccion? R.alvarohrv: OK
 (develop-uiyaca) listo para corregir, esperando la PR (vamos a ver quien lo solicita)
 Pd-uiyaca: 1 commit-push  luego de la PR
 (Uiyaca) cambios en la PR  ___ errores ortograficos: ReFleciOn - RefleXciÓn () 
-alvarohrv_ ¿que tal la correccion? R.uiyaca:  
+alvarohrv_ ¿que tal la correccion? R.uiyaca: OK
+---- fin de revision, resolviendo PR y haciendo merge
