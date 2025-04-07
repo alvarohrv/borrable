@@ -6,7 +6,10 @@ alvarohrv )) voy hacer un cambio luego de enviar por primera vez mi repo a githu
 alvarohrv )) otro cambio y pusch, antes de que uiyaca haga pull, sus cambios y un pusch (nota: pero ya hizo un clone)
 uiyaca)) mi primer cambio, que puede salir mal? R salio mal, por un conflicto al no hacer pull primero, pero se resolvio el conflicto
 
-(en staging y voy hacer pull, a ver que pasa)
+(se que uiyaca tiene un archivo en stagin, voy a mandar este cambio y que haga pull)
+(uiyaca: en staging y voy hacer pull, a ver que pasa)
+(uiyaca: pudrete ya arregle el conflicto)
+------
 
-
-(develop-uiyaca) listo para corregir
+(develop) probando el PR  ___ errores ortograficos: conSienSia-conSienSia 
+(develop-uiyaca) listo para corregir, esperando la PR (vamos a ver quien lo solicita)
