@@ -1,6 +1,4 @@
-hola mundo (3)
-goodbye world (main 1)
-chao mundo (develop 1)
+
 Intro: archivo de pruebas para curso de GIT en platzi con Freddy
 ///////////////////////////////////////////////////// RepoCuandoEraPrivado
 alvarohrv )) voy hacer un cambio luego de enviar por primera vez mi repo a github y antes de que uiyaca haga pull, sus cambios y un pusch (nota: pero ya hizo un clone)
