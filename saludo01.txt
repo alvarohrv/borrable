@@ -20,3 +20,4 @@ alvarohrv_ ¿que tal la correccion? R.uiyaca: OK
 ---- fin de revision, resolviendo PR y haciendo merge
 ///////////////////////////////////////////////////////// RepoHaraEsPublico-Tema:Fork
 uiyaca: 1ra contribución.
+linea commitiada y pusheada, validar autor:   
